@@ -1,0 +1,12 @@
+C:\Users\ussatdafa\source\repos\HTZDrive\HTZDrive\bin\Debug\net6.0\HTZDrive.deps.json
+C:\Users\ussatdafa\source\repos\HTZDrive\HTZDrive\bin\Debug\net6.0\HTZDrive.dll
+C:\Users\ussatdafa\source\repos\HTZDrive\HTZDrive\bin\Debug\net6.0\HTZDrive.pdb
+C:\Users\ussatdafa\source\repos\HTZDrive\HTZDrive\obj\Debug\net6.0\HTZDrive.csproj.AssemblyReference.cache
+C:\Users\ussatdafa\source\repos\HTZDrive\HTZDrive\obj\Debug\net6.0\HTZDrive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ussatdafa\source\repos\HTZDrive\HTZDrive\obj\Debug\net6.0\HTZDrive.AssemblyInfoInputs.cache
+C:\Users\ussatdafa\source\repos\HTZDrive\HTZDrive\obj\Debug\net6.0\HTZDrive.AssemblyInfo.cs
+C:\Users\ussatdafa\source\repos\HTZDrive\HTZDrive\obj\Debug\net6.0\HTZDrive.csproj.CoreCompileInputs.cache
+C:\Users\ussatdafa\source\repos\HTZDrive\HTZDrive\obj\Debug\net6.0\HTZDrive.dll
+C:\Users\ussatdafa\source\repos\HTZDrive\HTZDrive\obj\Debug\net6.0\refint\HTZDrive.dll
+C:\Users\ussatdafa\source\repos\HTZDrive\HTZDrive\obj\Debug\net6.0\HTZDrive.pdb
+C:\Users\ussatdafa\source\repos\HTZDrive\HTZDrive\obj\Debug\net6.0\ref\HTZDrive.dll
